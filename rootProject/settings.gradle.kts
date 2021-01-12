@@ -2,5 +2,5 @@
 include(":module")
 project(":module").projectDir = file("../module")
 
-rootProject.name = "untitled"
+rootProject.name = "multiplatformTest"
 
